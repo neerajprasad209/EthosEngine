@@ -1,7 +1,4 @@
-# EthosEngine
-The project is focus on the ethical aspects of speech.
-
-# Objective:
+EthosEngine: This suggests the project’s focus on the ethical aspects of speech.
 
 The objective of the “SentinelSpeak” project is to develop a robust and efficient machine learning model for 
 the classification of hate speech in digital communication. Utilizing Natural Language Processing (NLP) libraries
@@ -10,20 +7,4 @@ identify and categorize offensive language, thereby fostering healthier online i
 to contribute to the creation of safer digital spaces by mitigating the impact of harmful language.
 
 
-# How to Run?
-
-```Terminal 
-
-    conda create -n hate_speech python==3.8 - y
-```
-
-```Terminal 
-
-    conda activate hate_speech 
-```
-
-```Terminal 
-
-    pip install requirements.txt
-```
 
