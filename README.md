@@ -10,20 +10,27 @@ identify and categorize offensive language, thereby fostering healthier online i
 to contribute to the creation of safer digital spaces by mitigating the impact of harmful language.
 
 
+# Project Workflow
+
+- constant
+- config_entity
+- artificat_entity
+- components
+- pipeline
+- app.py
+
+
 # How to Run?
 
 ```Terminal 
-
     conda create -n hate_speech python==3.8 - y
 ```
 
 ```Terminal 
-
     conda activate hate_speech 
 ```
 
 ```Terminal 
-
-    pip install requirements.txt
+    pip install -r requirements.txt
 ```
 
